@@ -1,0 +1,11 @@
+D:\VB\Chapter 6\Chptr6-Case9-NestEgg\Chptr6-Case9-NestEgg\bin\Debug\Chptr6-Case9-NestEgg.exe.config
+D:\VB\Chapter 6\Chptr6-Case9-NestEgg\Chptr6-Case9-NestEgg\bin\Debug\Chptr6-Case9-NestEgg.exe
+D:\VB\Chapter 6\Chptr6-Case9-NestEgg\Chptr6-Case9-NestEgg\bin\Debug\Chptr6-Case9-NestEgg.pdb
+D:\VB\Chapter 6\Chptr6-Case9-NestEgg\Chptr6-Case9-NestEgg\bin\Debug\Chptr6-Case9-NestEgg.xml
+D:\VB\Chapter 6\Chptr6-Case9-NestEgg\Chptr6-Case9-NestEgg\obj\Debug\Chptr6-Case9-NestEgg.vbprojResolveAssemblyReference.cache
+D:\VB\Chapter 6\Chptr6-Case9-NestEgg\Chptr6-Case9-NestEgg\obj\Debug\Chptr6_Case9_NestEgg.frmNestEgg.resources
+D:\VB\Chapter 6\Chptr6-Case9-NestEgg\Chptr6-Case9-NestEgg\obj\Debug\Chptr6_Case9_NestEgg.Resources.resources
+D:\VB\Chapter 6\Chptr6-Case9-NestEgg\Chptr6-Case9-NestEgg\obj\Debug\Chptr6-Case9-NestEgg.vbproj.GenerateResource.Cache
+D:\VB\Chapter 6\Chptr6-Case9-NestEgg\Chptr6-Case9-NestEgg\obj\Debug\Chptr6-Case9-NestEgg.exe
+D:\VB\Chapter 6\Chptr6-Case9-NestEgg\Chptr6-Case9-NestEgg\obj\Debug\Chptr6-Case9-NestEgg.xml
+D:\VB\Chapter 6\Chptr6-Case9-NestEgg\Chptr6-Case9-NestEgg\obj\Debug\Chptr6-Case9-NestEgg.pdb
