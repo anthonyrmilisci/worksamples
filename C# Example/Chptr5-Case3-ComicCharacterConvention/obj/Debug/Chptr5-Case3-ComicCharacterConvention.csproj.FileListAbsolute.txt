@@ -1,0 +1,9 @@
+D:\C#\Chapter 5\Chptr5-Case3-ComicCharacterConvention\Chptr5-Case3-ComicCharacterConvention\bin\Debug\Chptr5-Case3-ComicCharacterConvention.exe.config
+D:\C#\Chapter 5\Chptr5-Case3-ComicCharacterConvention\Chptr5-Case3-ComicCharacterConvention\bin\Debug\Chptr5-Case3-ComicCharacterConvention.exe
+D:\C#\Chapter 5\Chptr5-Case3-ComicCharacterConvention\Chptr5-Case3-ComicCharacterConvention\bin\Debug\Chptr5-Case3-ComicCharacterConvention.pdb
+D:\C#\Chapter 5\Chptr5-Case3-ComicCharacterConvention\Chptr5-Case3-ComicCharacterConvention\obj\Debug\Chptr5-Case3-ComicCharacterConvention.csprojResolveAssemblyReference.cache
+D:\C#\Chapter 5\Chptr5-Case3-ComicCharacterConvention\Chptr5-Case3-ComicCharacterConvention\obj\Debug\Chptr5_Case3_ComicCharacterConvention.frmComicCharacterConvention.resources
+D:\C#\Chapter 5\Chptr5-Case3-ComicCharacterConvention\Chptr5-Case3-ComicCharacterConvention\obj\Debug\Chptr5_Case3_ComicCharacterConvention.Properties.Resources.resources
+D:\C#\Chapter 5\Chptr5-Case3-ComicCharacterConvention\Chptr5-Case3-ComicCharacterConvention\obj\Debug\Chptr5-Case3-ComicCharacterConvention.csproj.GenerateResource.Cache
+D:\C#\Chapter 5\Chptr5-Case3-ComicCharacterConvention\Chptr5-Case3-ComicCharacterConvention\obj\Debug\Chptr5-Case3-ComicCharacterConvention.exe
+D:\C#\Chapter 5\Chptr5-Case3-ComicCharacterConvention\Chptr5-Case3-ComicCharacterConvention\obj\Debug\Chptr5-Case3-ComicCharacterConvention.pdb
